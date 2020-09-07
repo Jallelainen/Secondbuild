@@ -6,7 +6,7 @@ namespace Secondbuild
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello World! I like to code.");
         }
     }
 }
